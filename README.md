@@ -15,7 +15,7 @@ This project analyzes customer churn using SQL and Power BI to identify key driv
 
 # Dashboard
 - PDF of charts
-- 
+  
 # Files Included
 - SQL Queries
 - Power BI Dashboard
